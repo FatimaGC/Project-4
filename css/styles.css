@@ -609,7 +609,7 @@ a {
 /* ============================================= */
 /*              Media Queries                    */
 /* ============================================= */
-@media (min-width: 768px) {
+@media ((min-width: 768px)) {
   /* line 5, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .container {
     max-width: 1400px;
@@ -724,7 +724,7 @@ a {
   max-height: 100%;
 }
 
-/* line 14, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_images.scss */
+/* line 13, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_images.scss */
 .img-frame {
   display: block;
   margin-left: auto;
@@ -735,7 +735,7 @@ a {
   border: 1px solid #ccc;
 }
 
-/* line 24, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_images.scss */
+/* line 22, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_images.scss */
 .img-logo {
   display: block;
   margin-left: auto;

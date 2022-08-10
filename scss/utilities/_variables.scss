@@ -12,7 +12,7 @@ $font-stack-sans-serif: "Lato", sans-serif;
 $radius-main: 5px;
 
 //Media query breakpoint
-$breakpoint-narrow: "(max-width: 768px)";
+$breakpoint-narrow: "(min-width: 768px)";
 
 //Mixins
 @mixin img-display {
