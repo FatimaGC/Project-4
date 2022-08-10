@@ -3,7 +3,7 @@
 /* ============================================= */
 
 * {
-  font-family: "Lato", sans-serif;
+  font-family: $font-stack;
   color: #777;
   box-sizing: border-box;
 }
@@ -21,17 +21,17 @@ a {
 /* ============================================= */
 
 .headline-primary {
-  color: $color-primary;
+  color: $color-viking-green;
   margin-left: 10px;
 }
 
 .headline-secondary {
   font-weight: 300;
-  color: $color-secondary;
+  color: $color-boulder-gray;
 }
 
 .link {
-  color: #51ddfc;
+  color: $color-malibu-blue;
   font-weight: 700;
 }
 
@@ -41,6 +41,6 @@ a {
   font-style: italic;
   margin-left: 20px;
   padding-left: 20px;
-  border-left: 8px solid $color-primary;
+  border-left: 8px solid $color-viking-green;
   border-radius: 5px;
 }
