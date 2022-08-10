@@ -3,6 +3,13 @@ $color-viking-green: #58e1c1;
 $color-boulder-gray: #777;
 $color-malibu-blue: #51ddfc;
 $color-white: #fff;
+$color-silver: #ccc;
 
-//Font
-$font-stack: "Lato", sans-serif;
+//Font stack
+$font-stack-sans-serif: "Lato", sans-serif;
+
+//Border radius
+$radius-main: 5px;
+
+//Media query breakpoint
+$breakpoint-narrow: "(max-width: 768px)";
