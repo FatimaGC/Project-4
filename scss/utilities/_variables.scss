@@ -13,3 +13,11 @@ $radius-main: 5px;
 
 //Media query breakpoint
 $breakpoint-narrow: "(max-width: 768px)";
+
+//Mixins
+@mixin img-display {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  @content;
+}
