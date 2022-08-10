@@ -590,7 +590,7 @@ a {
   flex-direction: column;
 }
 
-/* line 12, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_navigation.scss */
+/* line 10, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_navigation.scss */
 .nav-link {
   text-align: center;
   border-radius: 5px;
@@ -600,7 +600,7 @@ a {
   transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 }
 
-/* line 21, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_navigation.scss */
+/* line 18, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_navigation.scss */
 .nav-link:hover {
   color: #fff;
   background-color: #58e1c1;
