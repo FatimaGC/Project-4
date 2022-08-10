@@ -8,6 +8,9 @@ $color-silver: #ccc;
 //Font stack
 $font-stack-sans-serif: "Lato", sans-serif;
 
+//Font weight
+$font-weight-light: 300;
+
 //Border radius
 $radius-main: 5px;
 
@@ -15,7 +18,7 @@ $radius-main: 5px;
 $breakpoint-narrow: "(min-width: 768px)";
 
 //Mixins
-@mixin img-display {
+@mixin display-centered {
   display: block;
   margin-left: auto;
   margin-right: auto;

@@ -3,16 +3,13 @@
 /* ============================================= */
 @media ($breakpoint-narrow) {
   .container {
-    max-width: 1400px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    @include display-centered {
+      max-width: 1400px;
+    }
   }
 
   .centered {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    @include display-centered;
   }
 
   .row {

@@ -612,99 +612,99 @@ a {
 @media ((min-width: 768px)) {
   /* line 5, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .container {
-    max-width: 1400px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    max-width: 1400px;
   }
-  /* line 12, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 11, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .centered {
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
-  /* line 18, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 15, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .row {
     flex-direction: row;
   }
-  /* line 22, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 19, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   [class^="col"] {
     display: flex;
     justify-content: center;
     margin-top: 0;
     align-items: center;
   }
-  /* line 29, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 26, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   [class^="col"] + [class^="col"] {
     margin-left: 10px;
   }
-  /* line 33, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 30, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .col-1 {
     flex-basis: 8.33%;
   }
-  /* line 37, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 34, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .col-2 {
     flex-basis: 16.67%;
   }
-  /* line 41, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 38, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .col-3 {
     flex-basis: 25%;
   }
-  /* line 45, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 42, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .col-4 {
     flex-basis: 33.33%;
   }
-  /* line 49, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 46, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .col-5 {
     flex-basis: 41.67%;
   }
-  /* line 53, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 50, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .col-6 {
     flex-basis: 50%;
   }
-  /* line 57, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 54, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .col-7 {
     flex-basis: 58.33%;
   }
-  /* line 61, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 58, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .col-8 {
     flex-basis: 66.67%;
   }
-  /* line 65, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 62, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .col-9 {
     flex-basis: 75%;
   }
-  /* line 69, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 66, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .col-10 {
     flex-basis: 83.33%;
   }
-  /* line 73, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 70, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .col-11 {
     flex-basis: 91.67%;
   }
-  /* line 77, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 74, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .col-12 {
     flex-basis: 100%;
   }
-  /* line 81, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 78, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .nav {
     flex-direction: row;
     justify-content: flex-end;
     align-items: center;
   }
-  /* line 87, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 84, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .nav-link {
     flex-basis: 100px;
   }
-  /* line 91, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 88, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .btn {
     padding: 10px 30px;
   }
-  /* line 95, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 92, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .btn + .btn {
     margin-left: 10px;
   }
-  /* line 99, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
+  /* line 96, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_media-queries.scss */
   .logo {
     margin-left: initial;
     margin-right: initial;
