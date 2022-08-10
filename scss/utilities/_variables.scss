@@ -5,6 +5,9 @@ $color-malibu-blue: #51ddfc;
 $color-white: #fff;
 $color-silver: #ccc;
 
+//Color Functions
+$malibu-blue-light: lighten($color-malibu-blue, 10%);
+
 //Font stack
 $font-stack-sans-serif: "Lato", sans-serif;
 

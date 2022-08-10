@@ -442,24 +442,49 @@ a {
   background-color: #51ddfc;
 }
 
-/* line 19, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_buttons.scss */
+/* line 17, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_buttons.scss */
+.default:hover {
+  background-color: #83e7fd;
+}
+
+/* line 22, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_buttons.scss */
 .error {
   background-color: #e4757a;
 }
 
-/* line 23, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_buttons.scss */
+/* line 24, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_buttons.scss */
+.error:hover {
+  background-color: #eca0a3;
+}
+
+/* line 29, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_buttons.scss */
 .info {
   background-color: #927bc1;
 }
 
-/* line 27, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_buttons.scss */
+/* line 31, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_buttons.scss */
+.info:hover {
+  background-color: #af9ed1;
+}
+
+/* line 36, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_buttons.scss */
 .success {
   background-color: #63cc82;
 }
 
-/* line 31, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_buttons.scss */
+/* line 38, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_buttons.scss */
+.success:hover {
+  background-color: #89d9a1;
+}
+
+/* line 43, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_buttons.scss */
 .warning {
   background-color: #fd7856;
+}
+
+/* line 45, ../../../../../../../../../../../../../Users/fatima.guzman/Desktop/Coding Projects/Techdegree/Project-4/scss/component/_buttons.scss */
+.warning:hover {
+  background-color: #fea088;
 }
 
 /* ============================================= */
